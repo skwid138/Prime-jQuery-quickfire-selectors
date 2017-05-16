@@ -1,4 +1,6 @@
-$(document).ready(function () {
+$(document).ready(onReady);
+
+function onReady() {
   // Your code here
 
   // Make R red
@@ -14,4 +16,4 @@ $(document).ready(function () {
   // Make I indigo
 
   // Make V violet
-});
+}
